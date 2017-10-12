@@ -1,0 +1,9 @@
+Package: com.artikus.iwanthome
+Name: iWantHome
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Get home without the home button.
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: Tweaks
